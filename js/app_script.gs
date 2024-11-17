@@ -117,12 +117,12 @@ table.body .article {
                     <tr>
                       <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;" valign="top">
                         <div style="width: 300px; height: 300px; display: flex; padding-left: 100px; padding-right: 100px">
-                            <img src="https://shopsmon.com/img/logo.png" alt="Useful alt text" width=300 height=300 border="0" style="border:0; outline:none; text-decoration:none; display:block;">
+                            <img src="https://smart-pls.com/img/logo.png" alt="Useful alt text" width=300 height=300 border="0" style="border:0; outline:none; text-decoration:none; display:block;">
                         </div>
                         <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">Chào bạn,</p>
                         <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">Bạn đã thành công tạo đơn hàng trên hệ thống Shopsmon, vui lòng kiểm tra mã đơn ${code} theo đường dẫn bên dưới</p>
                         <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;"><b>Mã đơn của bạn: ${code}</b></p>
-                        <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;"><b>Đường dẫn kiểm tra: <a href="https://shopsmon/cart/${code}">https://shopsmon/cart/${code}</a></b></p>
+                        <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;"><b>Đường dẫn kiểm tra: <a href="https://smart-pls.com/cart/${code}">https://smart-pls.com/cart/${code}</a></b></p>
                         <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="btn btn-primary" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; box-sizing: border-box; width: 100%;" width="100%">
                           <tbody>
                             <tr>
@@ -130,7 +130,7 @@ table.body .article {
                                 <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;">
                                   <tbody>
                                     <tr>
-                                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; border-radius: 5px; text-align: center; background-color: #3498db;" valign="top" align="center" bgcolor="#3498db"> <a href="https://shopsmon.com/cart/${code}" target="_blank" style="border: solid 1px #3498db; border-radius: 5px; box-sizing: border-box; cursor: pointer; display: inline-block; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-decoration: none; text-transform: capitalize; background-color: #3498db; border-color: #3498db; color: #ffffff;">Đi đến Shopsmon</a> </td>
+                                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; border-radius: 5px; text-align: center; background-color: #3498db;" valign="top" align="center" bgcolor="#3498db"> <a href="https://smart-pls.com/cart/${code}" target="_blank" style="border: solid 1px #3498db; border-radius: 5px; box-sizing: border-box; cursor: pointer; display: inline-block; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-decoration: none; text-transform: capitalize; background-color: #3498db; border-color: #3498db; color: #ffffff;">Đi đến Shopsmon</a> </td>
                                     </tr>
                                   </tbody>
                                 </table>
@@ -161,7 +161,7 @@ table.body .article {
                 </tr>
                 <tr>
                   <td class="content-block powered-by" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; color: #999999; font-size: 12px; text-align: center;" valign="top" align="center">
-                    Powered by <a href="https://shopsmon.com" style="color: #999999; font-size: 12px; text-align: center; text-decoration: none;">Shopsmon</a>.
+                    Powered by <a href="https://smart-pls.com" style="color: #999999; font-size: 12px; text-align: center; text-decoration: none;">Shopsmon</a>.
                   </td>
                 </tr>
               </table>
